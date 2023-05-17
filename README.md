@@ -2,6 +2,7 @@
 # использовал Mysql, java.net пакет для отправки запроса к api CoinLore, @Scheduled - каждую минуту вывоз метода для обновления базы данных и проверки цен юзеров с текущими
 пример вывода в консоль сообщених об изменений цены юзеров и актуальных(обновленных) цен
 ![image](https://github.com/DanikMotolyha/currencywatcher/assets/41682387/46e879cb-c728-4002-8824-aba17d7dfd04)
+![image](https://github.com/DanikMotolyha/currencywatcher/assets/41682387/7618d946-3daf-489c-a504-fc34f0c3b0a2)
 
 ### Тех Задание :
 <!DOCTYPE html>
